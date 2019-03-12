@@ -28,7 +28,7 @@ async function main() {
     // setup email data with unicode symbols
     let mailOptions = {
         from: '"Mike" <mykdsn@gmail.com>', // sender address
-        to: "mykdsn@gmail.com", // list of receivers
+        to: "hannahjsparker@gmail.com", // list of receivers
         subject: "Test", // Subject line
         text: "Email Test", // plain text body
         // html: "<b>Email Test</b>" // html body
